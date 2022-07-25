@@ -1,0 +1,20 @@
+{
+  "ownerNumber": ["6281803329743@s.whatsapp.net"],
+  "ownerName": ["Azi Official"],
+  "botName": "Nekobot",
+  "sessionName": "session",
+  "pathimg": "./storage/media/neobot.png",
+  "FakeNya": "AZI ID © 2023",
+  
+  "apikey": {
+  "XteamKey": "YOUR_APIKEY",
+  "LeysKey": "IkyOgiwara"
+  },
+  
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
